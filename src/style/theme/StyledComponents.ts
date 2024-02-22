@@ -12,4 +12,3 @@ export const Header = styled.header<Header>`
   background-color: ${(props: any) => (props.backgroundColor ? props.backgroundColor : Colors?.brandSecondaryBackgroundColor)};
   height : ${(props: any) => (props.height ? `${props.height}px` : '20px')}
   `;
-
