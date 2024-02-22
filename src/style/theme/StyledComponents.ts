@@ -5,7 +5,6 @@ import { Colors } from '.';
 interface Header {
     backgroundColor?: string,
     height ?: number,
-
 }
 
 export const Header = styled.header<Header>`

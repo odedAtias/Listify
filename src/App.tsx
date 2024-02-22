@@ -1,7 +1,6 @@
 import React from 'react';
 import { Colors, Header } from './style';
 
-
 const App: React.FC = () => {
   return (
     <>
