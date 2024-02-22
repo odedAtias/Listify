@@ -1,3 +1,3 @@
-import { Colors } from "./theme";
+import { Colors, Header } from "./theme";
 
-export { Colors };
+export { Colors, Header };

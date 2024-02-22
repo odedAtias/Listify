@@ -1,3 +1,4 @@
 import { Colors } from "./Colors";
+import { Header } from './StyledComponents';
 
-export { Colors };
+export { Colors, Header };
